@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.6.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.6.0...chrome-devtools-mcp-v1.6.1) (2026-07-14)
+
+
+### 🛠️ Fixes
+
+* improve daemon lifecycle ([#2360](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2360)) ([3ee6a27](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/3ee6a2710029f3718792da634c048bf4de90eaa6))
+
+
+### 📄 Documentation
+
+* update security.md ([#2362](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2362)) ([5012b07](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/5012b077997618edeb2291d39d17553280f5b2a6))
+
+
+### 🏗️ Refactor
+
+* move tool groups ([#2365](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2365)) ([2d944f9](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/2d944f9f4e6b107a6b42fb82c7e957384883bf7d))
+
 ## [1.6.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.5.0...chrome-devtools-mcp-v1.6.0) (2026-07-14)
 
 
